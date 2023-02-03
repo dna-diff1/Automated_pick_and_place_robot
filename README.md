@@ -1,8 +1,7 @@
 # Mobile_pick_and_place_robot
-A mini, mobile pick and place robot to pick an object, transport it to the goal location and place it on the target position while avoiding obstacles in the way
 
-TASK 1: To pick an object and place it on the target 2 metres away without any obstacle in the way.
+A mobile robot project that picks up an object and avoids obstacles using ultrasonic sensors with an arm or gripper mechanism for picking up objects. The robot would also be equipped with ultrasonic sensors that are used to detect obstacles in the robot's path. The robot is programmed to move towards a goal while avoiding obstacles detected by the ultrasonic sensors( the goal was set 3 meters from the starting point).
+The robot would use the ultrasonic sensor to measure the distance to obstacles and determine whether they are in the robot's path. If an obstacle is detected, the robot would adjust its course to avoid it. The robot is also programmed to recognize the object to be picked up and navigate towards it. Once the object is within reach, the robot would use its arm or gripper mechanism to pick up the object and then drops it when reaching the goal.
+The robot then navigates to the goal while avoiding any obstacles in its path, using information from the ultrasonic sensor to adjust its course as necessary. Visual feedback like displaying an LED light indicating that the object has been successfully picked up.
 
-TASK 2: Same as TASK 1 but in the presence on an obstacle at the 1 metre point. 2 different paths have been choosen to avoid the obstacle
 
-Video Explanations, robot pictures, and report attached
