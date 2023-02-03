@@ -4,4 +4,5 @@ A mobile robot project that picks up an object and avoids obstacles using ultras
 The robot would use the ultrasonic sensor to measure the distance to obstacles and determine whether they are in the robot's path. If an obstacle is detected, the robot would adjust its course to avoid it. The robot is also programmed to recognize the object to be picked up and navigate towards it. Once the object is within reach, the robot would use its arm or gripper mechanism to pick up the object and then drops it when reaching the goal.
 The robot then navigates to the goal while avoiding any obstacles in its path, using information from the ultrasonic sensor to adjust its course as necessary. Visual feedback like displaying an LED light indicating that the object has been successfully picked up.
 
+![Picture3](https://user-images.githubusercontent.com/83095255/216539845-5b6bc0ff-8f04-4d66-9515-7544463372cb.jpg)
 
