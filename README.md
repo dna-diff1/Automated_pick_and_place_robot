@@ -6,3 +6,4 @@ The robot then navigates to the goal while avoiding any obstacles in its path, u
 
 ![Picture3](https://user-images.githubusercontent.com/83095255/216539845-5b6bc0ff-8f04-4d66-9515-7544463372cb.jpg)
 
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/83095255/216541327-92e6418d-d9d1-4c7c-882b-749eab0fd256.gif)
